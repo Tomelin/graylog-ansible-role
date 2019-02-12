@@ -1,2 +1,3 @@
 - src: elastic.elasticsearch
 - src: jdauphant.nginx
+- src: graylog-ansible-role
